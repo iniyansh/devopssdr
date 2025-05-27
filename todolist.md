@@ -3,4 +3,4 @@
 3) Deploy
 4) verify
 5) test
-6) Deploy
+6) Docker
